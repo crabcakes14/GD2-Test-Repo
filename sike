@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title>
+            TEST WEBSITE
+        </title>
+    </head>
+
+    <body>
+
+
+        <style> 
+            body{
+                background:lightpink;
+                color:white;
+
+                }
+
+                p{
+                    font-family: fantasy;
+
+                }
+
+                a{
+                    color: deeppink;
+                }
+
+                a:visted{
+                    color: white;
+
+                    }
+
+        h1{
+            color:deeppink;
+            width: 700px;
+            height: 200px;
+         } 
+
+         #nav{
+            background: lightcoral;
+            width: 150px;
+            padding: 15px;
+            color: white;
+            font-family: initial;
+              }
+
+        #nav a{ 
+            color:peachpuff;\
+              }
+
+        h6{ 
+            font-family: !important;
+            color: hotpink;
+              }
+
+         #cat{
+            width: 150px;
+            margin-left:200px;
+              }
+
+
+        </style>    
+        <h1>
+            CUPCAKENATOR
+        </h1>
+
+
+
+        <h4 id="nav"> click to <a href="https://www.coolmathgames.com/0-moto-x3m?utm_source=google&utm_medium=cpc&utm_campaign=20526927077&utm_source=google&utm_medium=cpc&utm_campaign=20526927077&gad_source=1&gclid=Cj0KCQiAn-2tBhDVARIsAGmStVmwERypM2AghcPH5DkLfdHRcogAip3MuuZu31CWmQLv5PcYREjv4agaAt5iEALw_wcB"> start! </a></h4> 
+
+
+
+    <p>
+        
+
+
+
+</body>
+
+</html> 

@@ -1,0 +1,82 @@
+
+
+@font-face{
+    font-family: Superfunky;
+    src:url(fonts/SuperFunky-lgmWw.woff);
+
+    }
+
+@font-face{
+    font-family: purplemagic;
+    src:url(fonts/PurplemagicdemoSvg-x32mO.woff);
+}     
+
+    body{
+        background: rgba(255, 188 , 232, 0.8);
+        color:rgba(9, 0, 0, 1.0);
+
+
+    } 
+
+                }
+
+                p{
+                    font-family: fantasy;
+
+                }
+
+                .pink-paragraph{
+                    color:rgba(192, 25, 88, 1);
+                }
+
+                a{
+                    color: deeppink;
+                }
+
+                a:visted{
+                    color: white;
+
+                    }
+
+        h1{
+            color:deeppink;
+            font-family:Superfunky;
+            padding: 20px;
+         } 
+
+         #nav{
+            background: lightcoral;
+            width: 150px;
+            padding: 15px;
+            color: white;
+            font-family: initial;
+              }
+
+        h2{
+
+        }   
+
+        #HISTORY{
+            font-size: 70pt;
+            font-family: purplemagic;
+        }   
+
+        #nav a{ 
+            color:peachpuff;\
+              }
+
+        h6{ 
+            font-family: !important;
+            color: hotpink;
+              }
+
+         #cat{
+            width: 150px;
+            margin-left:200px;
+              }
+
+        #kitty{
+            margin-left:200px
+              }
+
+  
